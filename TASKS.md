@@ -22,7 +22,25 @@
 
 ## Logistics
 
-- [ ] Order coffee and snacks
+### Banners & Branding
+- [ ] Design banner artwork (Cursor logo, event name, date)
+- [ ] Determine banner sizes needed (entrance, stage, registration table)
+- [ ] Get quotes from print shops (FedEx, Staples, local print shops)
+- [ ] Order banners (allow 3-5 business days for printing)
+- [ ] Pick up banners before event
+- [ ] Design table signs/name cards if needed
+
+### Catering - Coffee & Pastries
+- [ ] Research local coffee shops/caterers (Starbucks, local roasters, catering companies)
+- [ ] Get quotes for coffee service (per person estimate: 19+ attendees)
+- [ ] Get quotes for pastries (variety pack, dietary options)
+- [ ] Confirm delivery/pickup options
+- [ ] Lock in vendor and place order
+- [ ] Confirm delivery time (morning of event or day before)
+- [ ] Arrange for serving setup (cups, napkins, serving trays)
+- [ ] Consider dietary restrictions (gluten-free, vegan options)
+
+### Event Setup
 - [ ] Set up event space (tables, chairs, projector/screen)
 - [ ] Test AV equipment
 - [ ] Prepare name tags or check-in system
