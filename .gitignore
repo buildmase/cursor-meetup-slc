@@ -1,0 +1,16 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Private information
+*.key
+*.pem
+secrets/
+.env
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+~*
+
